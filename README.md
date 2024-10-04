@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="100%" src="https://github.com/BorjaDelgado37/bds37/blob/main/Assets/fondobds.jpg"  />
+  <img height="200" width="100%" src="https://github.com/BorjaDelgado37/BorjaDelgado37/blob/main/Assets/fondobds.jpg"  />
 </div>
 
 ###
@@ -33,7 +33,7 @@ computer security in which I continue working and training today.</p>
 <p align="left">⚠️ I started hacking about 4 or 5 years ago creating my first camfish, some keyloggers and many phishing pages without leaving aside my msfvenom controlling mobile devices (all of this is controlled environments😉) <br>📚 I'm currently learning Cybersecurity basics and Studying web development in IES CASTELAR, its my secons year... i'll start with tfg (university final project) (<br>🎲In my free time I like to play Valorant from time to time (although I have little free time) I usually record with my drone and I really like the forest... basically activities that allow me to relax and relieve my mind</p>
 
 <div align="center">
-<img height="200" src="https://github.com/BorjaDelgado37/bds37/blob/main/Assets/BDS37g.png" alt="Spotify recently played">
+<img height="200" src="https://github.com/BorjaDelgado37/BorjaDelgado37/blob/main/Assets/BDS37g.png" alt="Spotify recently played">
 </div>
 
 <br clear="both">
