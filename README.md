@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">MI'm Borja, I'm a web application development student at IES Castelar, an average Systems Technician.
+<p align="left">MI'm Borja, I'm a web application development student at IES Castelar and IES Albarregas, an average Systems Technician.
 microcomputers and networks. I am a person with the drive to learn and soak up all the notions.
 possible, with a great self-taught and group leadership capacity, I also have some bases on
 computer security in which I continue working and training today.</p>
@@ -30,7 +30,8 @@ computer security in which I continue working and training today.</p>
 <a href="https://open.spotify.com/user/Pedrito">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=pjutrero75" alt="Spotify recently played"  align="right"/>
 </a>
-<p align="left">⚠️ I started hacking about 4 or 5 years ago creating my first camfish, some keyloggers and many phishing pages without leaving aside my msfvenom controlling mobile devices (all of this is controlled environments😉) <br>📚 I'm currently learning Cybersecurity basics and Studying web development in IES CASTELAR, its my secons year... i'll start with tfg (university final project) (<br>🎲In my free time I like to play Valorant from time to time (although I have little free time) I usually record with my drone and I really like the forest... basically activities that allow me to relax and relieve my mind</p>
+<p align="left">⚠️I started hacking about 4 or 5 years ago, creating my first camfish, some keyloggers, and many phishing pages, without leaving aside my msfvenom experiments controlling mobile devices (all of this in controlled environments 😉).
+Over time, I also got deeply into software development — building web applications, coding backend systems, working with APIs, databases, automation scripts, and constantly learning new technologies. I enjoy turning ideas into real projects, solving problems through code, and experimenting with cybersecurity and development together.<br>📚 I'm currently learning Cybersecurity basics and Studying web development in IES Albarregas, its my second year... i'll start with tfg (university final project) (<br>🎲In my free time I like to runing from time to time (although I have little free time) I usually record with my drone and I really like the forest... basically activities that allow me to relax and relieve my mind</p>
 
 <div align="center">
 <img height="200" src="https://github.com/BorjaDelgado37/BorjaDelgado37/blob/main/Assets/BDS37g.png" alt="Spotify recently played">
